@@ -1,6 +1,8 @@
-# TF2 soundboard sounds
+# TF2 soundpacks
 
-Sounds for the [soundboard script](https://github.com/henryweaponsguy/tf2-textchat-to-voicechat)
+`soundboard` - sounds for the [soundboard script](https://github.com/henryweaponsguy/tf2-textchat-to-voicechat)
+
+`vox` - Black Mesa Announcement System sounds for the [sentence mixing script](https://github.com/henryweaponsguy/tf2-textchat-to-voicechat)
 
 ---
 
