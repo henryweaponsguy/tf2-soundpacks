@@ -37,7 +37,7 @@ s/\b(we're)\b/we are/g
 s/\b(you're|youre)\b/you are/g
 
 #s/\b()\b/bizwarn/g
-#s/\b()(e|e?s|e?d|ing)?\b/bloop/g
+#s/\b()\b/bloop/g
 #s/\b()\b/buzwarn/g
 #s/\b()\b/dadeda/g
 #s/\b()\b/deeoo/g
@@ -589,7 +589,7 @@ s/\b(contact|feel|felt|touch)(e|e?s|e?d|ing)?\b/touch/g
 s/\b(toward)\b/towards/g
 s/\b(path|track|trail)(e|e?s|e?d|ing)?\b/track/g
 s/\b(educate|teach|train)(e|e?s|e?d|ing)?\b/train/g
-s/\b(logistics|transit|transport)\b/transportation/g
+s/\b(logistics|railway|transit|transport)\b/transportation/g
 s/\b(car|cart|lorr[yi]|payload|vehicle)(e|e?s)?\b/truck/g
 s/\b(passage|tunnel)(s)?\b/tunnel/g
 s/\b(rotat|spin{1,2}|turn)(e|e?s|e?d|ing)?\b/turn/g
