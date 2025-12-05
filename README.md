@@ -1,6 +1,6 @@
 # TF2 soundpacks
 
-`hgrunt` - Human Grunt (Half-Life) voice for the [sentence mixing script](https://github.com/henryweaponsguy/tf2-textchat-to-voicechat)
+`hgrunt` - HECU Marine (Half-Life) voice for the [sentence mixing script](https://github.com/henryweaponsguy/tf2-textchat-to-voicechat)
 
 `soundboard` - sounds for the [soundboard script](https://github.com/henryweaponsguy/tf2-textchat-to-voicechat)
 
