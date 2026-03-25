@@ -7,6 +7,8 @@ administrator laugh 1
 administrator laugh 2
 administrator laugh 3
 ah no
+alert engineer 1
+alert engineer 2
 alert sentry buster 1
 alert sentry buster 2
 alert sentry buster 3
@@ -59,7 +61,8 @@ bonk
 bonus ducks 1
 bonus ducks 2
 bonus ducks 3
-booo
+booo 1
+booo 2
 boo 1
 boo 2
 boo 3
@@ -95,6 +98,7 @@ crit 4
 crit 5
 crowd boo
 crowd cheer
+da
 dammit 1
 dammit 2
 dammit 3
@@ -108,11 +112,13 @@ damn you 1
 damn you 2
 dance dance dance
 dance fools
+danke
 darn
 dead ringer
 destroy them
 diagnosis
 die son of a bitch
+ding dong
 domination
 doom
 duke dammit
@@ -159,6 +165,7 @@ get that crap outta here
 gibberish 1
 gibberish 2
 goal
+gonna cry
 gonna kick your ass
 goodbye everyone
 good to see you
@@ -240,8 +247,10 @@ i hate you
 i have come
 i love this
 i need a drink
+ja
 jarate 1
 jarate 2
+jawohl
 kablooie
 kaboom
 ka ching
@@ -322,12 +331,17 @@ no regrets
 no russian
 no time to play
 no way im eating this
+nyet
 off to visit your mother
 ohh
 oh my god
 oh no
 oktoberfest
 one
+overtime 1
+overtime 2
+overtime 3
+overtime 4
 owned
 painis
 piece of cake
@@ -447,7 +461,19 @@ strongman bell
 success
 suck it down 1
 suck it down 2
+sudden death
 super speed
+team scramble 1
+team scramble 2
+team scramble 3
+team wipe 1
+team wipe 2
+team wipe 3
+team wipe 4
+team wipe 5
+team wipe 6
+team wipe 7
+team wipe 8
 terminated
 thanks 1
 thanks 2
@@ -465,8 +491,8 @@ time to choose 1
 time to choose 2
 time to kick ass
 too long
-tweet tweet 1
-tweet tweet 2
+tweet 1
+tweet 2
 two
 ubercharge
 ugh
