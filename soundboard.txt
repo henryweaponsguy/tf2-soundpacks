@@ -25,6 +25,9 @@ applause
 are you insane
 attack them 1
 attack them 2
+awoo 1
+awoo 2
+awoo 3
 a fellow scientist
 balls of steel
 beep 1
@@ -73,7 +76,11 @@ bucket of chicken 1
 bucket of chicken 2
 canned laughter
 cant get any worse
+cart detonator
 cascade scenario
+cat scream 1
+cat scream 2
+cat scream 3
 chaos theory
 clap 1
 clap 2
@@ -86,6 +93,9 @@ come get some
 completely wrong
 congratulations
 cool
+cow 1
+cow 2
+cow 3
 crickets
 crikey 1
 crikey 2
@@ -140,6 +150,10 @@ excellent 1
 excellent 2
 failure
 fat bald bastard
+fireworks 1
+fireworks 2
+fireworks 3
+fireworks 4
 first blood 1
 first blood 2
 first blood 3
@@ -218,6 +232,11 @@ hoot 3
 hoot 4
 hoot 5
 hoot 6
+horn 1
+horn 2
+horn 3
+horn 4
+horn 5
 howl 1
 howl 2
 howl 3
@@ -251,6 +270,11 @@ ja
 jarate 1
 jarate 2
 jawohl
+jingle bells 1
+jingle bells 2
+jingle bells 3
+jingle bells 4
+jingle bells 5
 kablooie
 kaboom
 ka ching
@@ -381,6 +405,16 @@ sad
 sad trombone
 salad
 sandvich
+schadenfreude 1
+schadenfreude 2
+schadenfreude 3
+schadenfreude 4
+schadenfreude 5
+schadenfreude 6
+schadenfreude 7
+schadenfreude 8
+schadenfreude 9
+schadenfreude 10
 schweinhunds 1
 schweinhunds 2
 scientist oh dear
@@ -536,6 +570,9 @@ whistle
 whoop de doo
 who wants some
 why dont you push
+witch laugh 1
+witch laugh 2
+witch laugh 3
 wooe
 woohoo 1
 woohoo 2
@@ -553,5 +590,6 @@ you cant be serious
 you failed
 you fool
 you guys suck
+you live in a van
 you lose
 you ugly
