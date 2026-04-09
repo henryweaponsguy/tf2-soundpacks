@@ -1,5 +1,7 @@
 # TF2 soundpacks
 
+`chat-notifications` - sounds for the [chat notifications script](https://github.com/henryweaponsguy/tf2-textchat-to-voicechat)
+
 `poll` - sounds for the [poll script](https://github.com/henryweaponsguy/tf2-textchat-to-voicechat)
 
 `sentencemixing-hgrunt` - HECU Marine (Half-Life) voice for the [sentence mixing script](https://github.com/henryweaponsguy/tf2-textchat-to-voicechat)
