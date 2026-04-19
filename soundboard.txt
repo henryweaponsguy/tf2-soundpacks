@@ -22,6 +22,7 @@ alert spy 3
 alert spy 4
 anyone else getting hungry
 applause
+apple
 are you insane
 attack them 1
 attack them 2
@@ -29,7 +30,9 @@ awoo 1
 awoo 2
 awoo 3
 a fellow scientist
+baa
 balls of steel
+banana bay
 beep 1
 beep 2
 beep 3
@@ -108,6 +111,7 @@ crit 4
 crit 5
 crowd boo
 crowd cheer
+cupcake
 da
 dammit 1
 dammit 2
@@ -125,11 +129,14 @@ dance fools
 danke
 darn
 dead ringer
+defeat
 destroy them
 diagnosis
+did you forget something
 die son of a bitch
 ding dong
 domination
+dont hate me cause im beautiful
 doom
 duke dammit
 duke damn
@@ -240,6 +247,7 @@ horn 5
 howl 1
 howl 2
 howl 3
+im hungry
 im leaving now
 incoming boss
 incoming spell 1
@@ -257,7 +265,10 @@ is not funny 1
 is not funny 2
 is not funny 3
 is not funny 4
+is not possible
 its perfect
+it just works 1
+it just works 2
 i am here
 i am the scout here
 i did it like this
@@ -319,6 +330,8 @@ meem 1
 meem 2
 merasmus is impressed
 merasmus the wizard
+mission complete 1
+mission complete 2
 moan 1
 moan 2
 moan 3
@@ -337,6 +350,7 @@ nice hat
 nice shot 1
 nice shot 2
 nice shot 3
+nigga
 no
 nom
 nooo 1
@@ -369,10 +383,12 @@ overtime 4
 owned
 painis
 piece of cake
+pills here
 piss
 poopy joe
 pootis
 pow
+power armor is for pussies
 push 1
 push 2
 push 3
@@ -401,6 +417,7 @@ repeat after me
 revenge
 rip
 rockin
+running circles around you
 sad
 sad trombone
 salad
@@ -463,6 +480,7 @@ shake it baby
 shit happens
 shut up
 sigma
+sixteen times the detail
 slap 1
 slap 2
 small head 1
@@ -478,6 +496,7 @@ sniper 4
 snort
 so proud
 so sorry
+speak up nigga
 spin the wheel
 spy 1
 spy 2
@@ -492,6 +511,7 @@ stop them 2
 stop the cap 1
 stop the cap 2
 strongman bell
+stupid
 success
 suck it down 1
 suck it down 2
@@ -516,6 +536,8 @@ thanks 4
 thanks 5
 thats gotta hurt
 thats not even funny
+that was not medicine
+theyve sent me a moron
 the enemy is in the beam
 think fast
 this is getting awkward
@@ -524,6 +546,7 @@ time to abort you
 time to choose 1
 time to choose 2
 time to kick ass
+too intelligent for this
 too long
 tweet 1
 tweet 2
@@ -566,8 +589,10 @@ were doomed
 we are in the beam
 wha
 what are you doing
+where is your power armor
 whistle
 whoop de doo
+whos laughing now
 who wants some
 why dont you push
 witch laugh 1
@@ -577,19 +602,25 @@ wooe
 woohoo 1
 woohoo 2
 wunderbar
+yeah
 yeees
 yee haw 1
 yee haw 2
+yee yee ass haircut
 yes
 yes yes yes
 yippeeki
+youre a little slow
 your face your ass
 your wife is not real
 you are dead
 you cant be serious
-you failed
 you fool
+you freakin stupid
 you guys suck
 you live in a van
 you lose
+you moron 1
+you moron 2
+you picked the wrong house
 you ugly
