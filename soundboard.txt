@@ -29,10 +29,13 @@ attack them 2
 awoo 1
 awoo 2
 awoo 3
+aye
 a fellow scientist
 baa
 balls of steel
 banana bay
+battalions backup 1
+battalions backup 2
 beep 1
 beep 2
 beep 3
@@ -47,17 +50,17 @@ beep 11
 beep boop 1
 beep boop 2
 bell
-big head 1
-big head 2
-big head 3
-big head 4
-big head 5
-big head 6
-big head 7
-big head 8
-big head 9
-big head 10
-big head 11
+big heads 1
+big heads 2
+big heads 3
+big heads 4
+big heads 5
+big heads 6
+big heads 7
+big heads 8
+big heads 9
+big heads 10
+big heads 11
 bitchin
 blow it out your ass
 blu wins
@@ -77,14 +80,19 @@ brazil
 brutal
 bucket of chicken 1
 bucket of chicken 2
+buff banner 1
+buff banner 2
 canned laughter
 cant get any worse
+can of soup
 cart detonator
 cascade scenario
 cat scream 1
 cat scream 2
 cat scream 3
 chaos theory
+charge now doctor
+chucklenuts
 clap 1
 clap 2
 classic 1
@@ -94,6 +102,7 @@ clippity clop
 collect money
 come get some
 completely wrong
+concheror
 congratulations
 cool
 cow 1
@@ -132,9 +141,13 @@ dead ringer
 defeat
 destroy them
 diagnosis
+didnt hurt 1
+didnt hurt 2
+didnt need your help
 did you forget something
 die son of a bitch
 ding dong
+dismissed
 domination
 dont hate me cause im beautiful
 doom
@@ -148,8 +161,10 @@ duke pain 5
 duke pain 6
 duke pain 7
 duke pain 8
+dumbass
 dummkopfs 1
 dummkopfs 2
+dummy
 eat shit and die
 everyone money
 eww
@@ -177,8 +192,10 @@ flawless victory 2
 flawless victory 3
 four
 free money
+friendship is freaking magic
 friendship is magic
 game over
+gasp
 gentlemen
 get back to work
 get behind me doctor
@@ -189,10 +206,12 @@ goal
 gonna cry
 gonna kick your ass
 goodbye everyone
+good times
 good to see you
 gotta move that gear up
 got you
 gravity
+grease monkey
 greetings 1
 greetings 2
 groovy
@@ -247,8 +266,11 @@ horn 5
 howl 1
 howl 2
 howl 3
+hows the weather over there
+ill tell your mother hello
 im hungry
 im leaving now
+im looking at your xray
 incoming boss
 incoming spell 1
 incoming spell 2
@@ -261,6 +283,7 @@ insanity 5
 insanity 6
 insanity 7
 inside your head
+intruder alert
 is not funny 1
 is not funny 2
 is not funny 3
@@ -271,12 +294,15 @@ it just works 1
 it just works 2
 i am here
 i am the scout here
+i am ze ubermensch
 i did it like this
 i dont wanna die
+i eat your sandwiches
 i hate you
 i have come
 i love this
 i need a drink
+i never liked you
 ja
 jarate 1
 jarate 2
@@ -288,9 +314,11 @@ jingle bells 4
 jingle bells 5
 kablooie
 kaboom
+kangaroo wife
 ka ching
 kill me 1
 kill me 2
+laughter is the best medicine
 laugh 1
 laugh 2
 laugh 3
@@ -325,11 +353,15 @@ laugh 31
 lets rock
 maggots
 magic everyone
-makin bacon
+making bacon
+medic medic medic
 meem 1
 meem 2
 merasmus is impressed
+merasmus no
 merasmus the wizard
+merasmus yes
+missed me
 mission complete 1
 mission complete 2
 moan 1
@@ -341,17 +373,20 @@ momma
 money
 money well spent
 moo
+moron
 much better
 my ass
+my bat still dry
 my kinda party
 nein
 nemesis
+nice aim
 nice hat
 nice shot 1
 nice shot 2
 nice shot 3
+nice try pal
 nigga
-no
 nom
 nooo 1
 nooo 2
@@ -361,6 +396,7 @@ not bad
 not crying over this
 not funny
 not medicine
+now ive seen everything
 no guns 1
 no guns 2
 no guns 3
@@ -369,12 +405,16 @@ no regrets
 no russian
 no time to play
 no way im eating this
+no worries mate
 nyet
+off to hang myself
 off to visit your mother
 ohh
 oh my god
 oh no
+oh whats up
 oktoberfest
+ok enough
 one
 overtime 1
 overtime 2
@@ -384,11 +424,17 @@ owned
 painis
 piece of cake
 pills here
+ping
 piss
+pong
 poopy joe
 pootis
+pootus
+pornography
 pow
 power armor is for pussies
+psyche
+punk
 push 1
 push 2
 push 3
@@ -402,6 +448,13 @@ push 10
 push 11
 push 12
 push 13
+pyro gibberish 1
+pyro gibberish 2
+pyro gibberish 3
+pyro gibberish 4
+pyro gibberish 5
+pyro gibberish 6
+pyro gibberish 7
 quack 1
 quack 2
 quack 3
@@ -461,6 +514,7 @@ scream 6
 scream 7
 scream 8
 scrumpy
+second opinion
 see you in hell
 sentry ahead 1
 sentry ahead 2
@@ -475,6 +529,8 @@ sentry buster 1
 sentry buster 2
 sentry buster 3
 sentry buster 4
+sentry down
+shagging your wife
 shake it
 shake it baby
 shit happens
@@ -483,17 +539,19 @@ sigma
 sixteen times the detail
 slap 1
 slap 2
-small head 1
-small head 2
-small head 3
-small head 4
-small head 5
-small head 6
+small heads 1
+small heads 2
+small heads 3
+small heads 4
+small heads 5
+small heads 6
 sniper 1
 sniper 2
 sniper 3
 sniper 4
 snort
+sorry
+soup can
 so proud
 so sorry
 speak up nigga
@@ -537,17 +595,26 @@ thanks 5
 thats gotta hurt
 thats not even funny
 that was not medicine
+that would be your mother
 theyve sent me a moron
+the burning you feel
 the enemy is in the beam
+the second worst thing today
 think fast
 this is getting awkward
+this is scout
+this sucks
+this sucks on ice
+this was a disappointment
 three
 time to abort you
 time to choose 1
 time to choose 2
 time to kick ass
+time to shower
 too intelligent for this
 too long
+too slow
 tweet 1
 tweet 2
 two
@@ -585,6 +652,17 @@ victory
 vine
 wah wah
 wait what
+wankers 1
+wankers 2
+wankers 3
+wankers 4
+wanker 1
+wanker 2
+wanker 3
+wanker 4
+wanker 5
+wanker 6
+weak
 were doomed
 we are in the beam
 wha
@@ -593,6 +671,7 @@ where is your power armor
 whistle
 whoop de doo
 whos laughing now
+whos on fire now
 who wants some
 why dont you push
 witch laugh 1
@@ -601,26 +680,38 @@ witch laugh 3
 wooe
 woohoo 1
 woohoo 2
+woosh 1
+woosh 2
 wunderbar
+wuss
 yeah
 yeees
 yee haw 1
 yee haw 2
 yee yee ass haircut
-yes
 yes yes yes
 yippeeki
+yoink 1
+yoink 2
 youre a little slow
+youre dead thats good
+youre doing good lad
+youre ugly
 your face your ass
 your wife is not real
+you are also ugly
 you are dead
+you are such a bad doctor
 you cant be serious
+you disgust me
 you fool
-you freakin stupid
+you freaking stupid
 you guys suck
 you live in a van
 you lose
 you moron 1
 you moron 2
 you picked the wrong house
-you ugly
+you suck 1
+you suck 2
+you will not be missed
