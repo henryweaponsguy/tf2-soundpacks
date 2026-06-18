@@ -3,9 +3,12 @@ aaah 1
 aaah 2
 absolutely not
 achievement
-administrator laugh 1
-administrator laugh 2
-administrator laugh 3
+admin game over
+admin laugh 1
+admin laugh 2
+admin laugh 3
+admin we win
+admin you lose
 ah no
 alert engineer 1
 alert engineer 2
@@ -24,6 +27,8 @@ alert tank 1
 alert tank 2
 alert tank 3
 all of you are dead
+america wins again
+among us
 anyone else getting hungry
 applause
 apple
@@ -55,6 +60,7 @@ beep 11
 beep boop 1
 beep boop 2
 bell
+betrayal will not be tolerated
 big heads 1
 big heads 2
 big heads 3
@@ -83,6 +89,13 @@ boo 1
 boo 2
 boo 3
 boo 4
+born to dance
+bottle of scrumpy
+brains 1
+brains 2
+brains 3
+brains 4
+brark
 brazil
 brutal
 bucket of chicken 1
@@ -91,14 +104,17 @@ buff banner 1
 buff banner 2
 canned laughter
 cant get any worse
+cant stop the magic
 can of soup
 cart detonator
+car crash in slow motion
 cascade scenario
 cat scream 1
 cat scream 2
 cat scream 3
 chaos theory
 charge now doctor
+cheers mate
 clap 1
 clap 2
 classic 1
@@ -111,10 +127,20 @@ completely wrong
 concheror
 congratulations
 cool
+couldnt you see the bloody bombs
+coward
 cow 1
 cow 2
 cow 3
 cow farm
+crazy laugh 1
+crazy laugh 2
+crazy laugh 3
+crazy laugh 4
+crazy laugh 5
+crazy laugh 6
+crazy laugh 7
+crazy laugh 8
 crickets
 crikey 1
 crikey 2
@@ -192,6 +218,31 @@ darn
 dead ringer
 dear god
 defeat
+demoman 1
+demoman 2
+demoman 3
+demoman 4
+demo laugh 1
+demo laugh 2
+demo laugh 3
+demo laugh 4
+demo laugh 5
+demo laugh 6
+demo laugh 7
+demo laugh 8
+demo laugh 9
+demo laugh 10
+demo laugh 11
+demo laugh 12
+demo laugh 13
+demo laugh 14
+demo laugh 15
+demo laugh 16
+demo laugh 17
+demo laugh 18
+demo laugh 19
+demo laugh 20
+demo laugh 21
 destroy them
 diagnosis
 didnt hurt 1
@@ -219,11 +270,33 @@ dummkopfs 1
 dummkopfs 2
 dummy
 eat shit and die
+engie laugh 1
+engie laugh 2
+engie laugh 3
+engie laugh 4
+engie laugh 5
+engie laugh 6
+engie laugh 7
+engie laugh 8
+engie laugh 9
+engie laugh 10
+engie laugh 11
+engie laugh 12
+engie laugh 13
+engie laugh 14
+engie laugh 15
+engie laugh 16
+engineer 1
+engineer 2
+engineer 3
+engineer 4
+engineer 5
 eww
 excellent 1
 excellent 2
 failure
 fat bald bastard
+fight me coward
 fireworks 1
 fireworks 2
 fireworks 3
@@ -243,6 +316,9 @@ flawless victory 1
 flawless victory 2
 flawless victory 3
 four
+friendship ends in ten seconds
+friendship ends in thirty seconds
+friendship has been detected
 friendship is freaking magic
 friendship is magic
 frying pan 1
@@ -264,13 +340,16 @@ goal
 gonna cry
 gonna kick your ass
 goodbye everyone
+good job
 good stuff
 good times
 good to see you
+gotcha fat boy
 gotta move that gear up
 got you
 go back to russia
 gravity
+gravity no
 grease monkey
 greetings 1
 greetings 2
@@ -299,8 +378,41 @@ happy birthday 13
 happy birthday 14
 happy birthday 15
 happy birthday 16
+heavy 1
+heavy 2
+heavy 3
+heavy 4
 heavy feel funny
 heavy is dead
+heavy laugh 1
+heavy laugh 2
+heavy laugh 3
+heavy laugh 4
+heavy laugh 5
+heavy laugh 6
+heavy laugh 7
+heavy laugh 8
+heavy laugh 9
+heavy laugh 10
+heavy laugh 11
+heavy laugh 12
+heavy laugh 13
+heavy laugh 14
+heavy laugh 15
+heavy laugh 16
+heavy laugh 17
+heavy laugh 18
+heavy laugh 19
+heavy laugh 20
+heavy laugh 21
+heavy laugh 22
+heavy laugh 23
+heavy laugh 24
+heavy laugh 25
+heavy laugh 26
+heavy laugh 27
+heavy laugh 28
+heavy laugh 29
 heavy song 1
 heavy song 2
 heavy song 3
@@ -312,14 +424,21 @@ heavy song 8
 heavy song 9
 heavy song 10
 heavy song 11
+heeelp
 hello there
-help
+help 1
+help 2
+heres a schematic for you
 heres a second opinion
+here they come
 high five
+hippie
 hit the showers frenchie
+hoho
 hohoho
 holy cow
 holy shit
+hon hon hon
 hoot 1
 hoot 2
 hoot 3
@@ -331,17 +450,31 @@ horn 2
 horn 3
 horn 4
 horn 5
+horseman laugh 1
+horseman laugh 2
+horseman laugh 3
+horseman laugh 4
 horse farm
 howl 1
 howl 2
 howl 3
 hows the weather
+how many times have you died
 ill tell your mother hello
+im a bloody god
+im a bloody unicorn
+im back baby
 im drunk
 im good at being an owl
 im hungry
+im hungry too
+im inside your head
 im leaving now
 im looking at your xray
+im rich
+im so sorry
+im too handsome to die
+im too intelligent for this
 incoming boss
 incoming spell 1
 incoming spell 2
@@ -353,26 +486,42 @@ insanity 4
 insanity 5
 insanity 6
 insanity 7
-inside your head
 intruder alert
+is good
 is nice
 is not funny 1
 is not funny 2
 is not funny 3
 is not funny 4
 is not possible
+its a miracle
+its happening
+its magic time
+its ours now
 its perfect
+its too much magic 1
+its too much magic 2
 it just works 1
 it just works 2
+i am an invincible unicorn
+i am a god
+i am a horned nightmare
+i am full of freaking magic
+i am having a heart attack
 i am here
 i am not done with you yet
+i am the king of australia
 i am the scout here
 i am ze ubermensch
 i did it like this
 i dont wanna die
 i eat your sandwiches
+i got it i got it
+i got it i got it i got it
 i hate you
 i have come
+i knew this would happen
+i love magic
 i love this
 i make it look easy
 i need a drink
@@ -392,40 +541,19 @@ kangaroo wife
 ka ching
 kill me 1
 kill me 2
+kill them all 1
+kill them all 2
+kill them all 3
+kill them all 4
+kung fu 1
+kung fu 2
 laughter is the best medicine
 laugh 1
 laugh 2
 laugh 3
-laugh 4
-laugh 5
-laugh 6
-laugh 7
-laugh 8
-laugh 9
-laugh 10
-laugh 11
-laugh 12
-laugh 13
-laugh 14
-laugh 15
-laugh 16
-laugh 17
-laugh 18
-laugh 19
-laugh 20
-laugh 21
-laugh 22
-laugh 23
-laugh 24
-laugh 25
-laugh 26
-laugh 27
-laugh 28
-laugh 29
-laugh 30
-laugh 31
 lets rock
 los los
+maggot
 maggots
 magic everyone
 making bacon
@@ -453,28 +581,71 @@ mc xp
 mc zombie 1
 mc zombie 2
 mc zombie 3
+medic 1
+medic 2
+medic 3
+medic 4
+medic 5
+medic 6
+medic 7
+medic 8
+medic 9
+medic 10
+medic 11
+medic 12
+medic 13
+medic 14
+medic 15
+medic 16
+medic 17
+medic laugh 1
+medic laugh 2
+medic laugh 3
+medic laugh 4
+medic laugh 5
+medic laugh 6
+medic laugh 7
+medic laugh 8
+medic laugh 9
+medic laugh 10
+medic laugh 11
+medic laugh 12
+medic laugh 13
+medic laugh 14
+medic laugh 15
+medic laugh 16
+medic laugh 17
+medic laugh 18
+medic laugh 19
+medic laugh 20
+medic laugh 21
+medic laugh 22
+medic laugh 23
+medic laugh 24
+medic laugh 25
+medic laugh 26
+medic laugh 27
+medic laugh 28
+medic laugh 29
+medic laugh 30
+medic laugh 31
 medic medic medic
 medic sees
 meem 1
 meem 2
 merasmus has come
 merasmus is impressed
-merasmus laugh 1
-merasmus laugh 2
-merasmus laugh 3
 merasmus no
 merasmus the wizard
 merasmus yes
 missed me
 mission complete 1
 mission complete 2
-miss pauling
 moan 1
 moan 2
 moan 3
 moan 4
 moist and delicious
-momma
 money 1
 money 2
 money 3
@@ -509,28 +680,38 @@ nooo 1
 nooo 2
 nooo 3
 nope
+notification
 not bad
 not crying over this
 not funny
 not medicine
+not something you see everyday
 now
 now ive seen everything
+now thats quality
 no guns 1
 no guns 2
 no guns 3
 no guns 4
+no problem
 no regrets
 no russian
 no time to play
 no way im eating this
 no worries mate
+nyehehe
 nyet
 off to hang myself
 off to visit your mother
 ohh
+ohoho
 oh my god
 oh no
+oh thats magic
+oh thats nice
 oh whats up
+oh yeah
+oh yeees
 oktoberfest
 ok enough
 one
@@ -541,6 +722,7 @@ overtime 4
 owl jarate
 owned
 painis
+pancakes
 piece of cake
 pills here
 ping
@@ -553,6 +735,7 @@ pootus
 pornography
 pow
 power armor is for pussies
+prepare for your examination
 psyche
 punk
 push 1
@@ -568,6 +751,11 @@ push 10
 push 11
 push 12
 push 13
+pyro 1
+pyro 2
+pyro 3
+pyro 4
+pyro 5
 pyro gibberish 1
 pyro gibberish 2
 pyro gibberish 3
@@ -575,6 +763,23 @@ pyro gibberish 4
 pyro gibberish 5
 pyro gibberish 6
 pyro gibberish 7
+pyro laugh 1
+pyro laugh 2
+pyro laugh 3
+pyro laugh 4
+pyro laugh 5
+pyro laugh 6
+pyro laugh 7
+pyro laugh 8
+pyro laugh 9
+pyro laugh 10
+pyro laugh 11
+pyro laugh 12
+pyro laugh 13
+pyro laugh 14
+pyro laugh 15
+pyro laugh 16
+pyro laugh 17
 quack 1
 quack 2
 quack 3
@@ -639,6 +844,7 @@ revenge
 rip
 rockin
 running circles around you
+run home to momma
 sad
 sad trombone
 salad
@@ -674,6 +880,29 @@ scientist scream 13
 scientist scream 14
 scientist scream 15
 scientist stop
+scout 1
+scout 2
+scout 3
+scout 4
+scout 5
+scout laugh 1
+scout laugh 2
+scout laugh 3
+scout laugh 4
+scout laugh 5
+scout laugh 6
+scout laugh 7
+scout laugh 8
+scout laugh 9
+scout laugh 10
+scout laugh 11
+scout laugh 12
+scout laugh 13
+scout laugh 14
+scout laugh 15
+scout laugh 16
+scout laugh 17
+screaming eagles
 scream 1
 scream 2
 scream 3
@@ -703,6 +932,7 @@ sentry buster 2
 sentry buster 3
 sentry buster 4
 sentry down
+sex
 shagging your wife
 shake it
 shake it baby
@@ -722,16 +952,48 @@ sniper 1
 sniper 2
 sniper 3
 sniper 4
+sniper laugh 1
+sniper laugh 2
+sniper laugh 3
+sniper laugh 4
+sniper laugh 5
+sniper laugh 6
+sniper laugh 7
+sniper laugh 8
+sniper laugh 9
+sniper laugh 10
+sniper laugh 11
+sniper laugh 12
+sniper laugh 13
+sniper laugh 14
+sniper laugh 15
 snipe that
 snort
+soldier 1
+soldier 2
+soldier 3
+soldier 4
+soldier 5
+soldier laugh 1
+soldier laugh 2
+soldier laugh 3
+soldier laugh 4
+soldier laugh 5
+soldier laugh 6
+soldier laugh 7
+soldier laugh 8
+soldier laugh 9
+soldier laugh 10
+soldier laugh 11
+soldier laugh 12
+soldier laugh 13
 soldier no
 soos
 sorry
 soup can
+so much magic
 so proud
-so sorry
 speak up nigga
-spin the wheel
 spit 1
 spit 2
 sputnik
@@ -741,8 +1003,35 @@ spy 3
 spy 4
 spy 5
 spy 6
+spy laugh 1
+spy laugh 2
+spy laugh 3
+spy laugh 4
+spy laugh 5
+spy laugh 6
+spy laugh 7
+spy laugh 8
+spy laugh 9
+spy laugh 10
+spy laugh 11
+spy laugh 12
+spy laugh 13
+spy laugh 14
+spy laugh 15
+spy laugh 16
+spy laugh 17
+spy laugh 18
+spy laugh 19
+spy laugh 20
+spy laugh 21
+spy laugh 22
+spy laugh 23
+spy laugh 24
+spy laugh 25
 spy soos
+stab
 stalemate
+start praying
 stop laughing
 stop screaming
 stop them 1
@@ -750,13 +1039,16 @@ stop them 2
 stop the cap 1
 stop the cap 2
 strongman bell
-stupid
+stupid 1
+stupid 2
 success
+success despite your friendships
 suck it down 1
 suck it down 2
 sudden death
 super jumping
 super speed
+sweet
 tank 1
 tank 2
 tank 3
@@ -781,6 +1073,7 @@ thanks 5
 thats gotta hurt
 thats not even funny
 that was not medicine
+that works
 that would be your mother
 theres more
 theyve sent me a moron
@@ -802,7 +1095,7 @@ time to choose 1
 time to choose 2
 time to kick ass
 time to shower
-too intelligent for this
+today i am a god
 too long
 too slow
 tweet 1
@@ -812,6 +1105,7 @@ ubercharge
 ugh
 uhh
 unbelievable
+unicorn power
 unreal dominating
 unreal doublekill
 unreal eight
@@ -837,7 +1131,9 @@ unreal three minutes
 unreal two
 unreal ultrakill
 unreal unstoppable
+usa
 very nice
+very nice very nice
 victory
 vine
 wah wah
@@ -852,11 +1148,20 @@ wanker 3
 wanker 4
 wanker 5
 wanker 6
+was there ever any doubt
 weak
+welcome to your doom
 were doomed
 we are in the beam
+we are screwed
 wha
 what are you doing
+what did i miss
+what have you done
+what the bloody hell just happened
+what the hell is that
+wheel of fate
+where is doctor
 where is your power armor
 whistle
 whoop de doo
@@ -875,15 +1180,29 @@ woosh 1
 woosh 2
 wunderbar
 wuss
-yeah
+yah
+yeah 1
+yeah 2
+yeah yeah yeah
 yeees
 yee haw 1
 yee haw 2
 yee yee ass haircut
+yes good 1
+yes good 2
+yes good 3
+yes good 4
+yes good 5
+yes more
+yes thats it
 yes yes yes
+yes you are dead
 yippeeki
 yoink 1
 yoink 2
+youre all bloody dead
+youre all dead
+youre an embarrassment
 youre a failure
 youre a little slow
 youre dead
@@ -893,11 +1212,18 @@ youre ugly
 your face your ass
 your wife is not real
 you are also ugly
+you are a coward
+you are a god
 you are dead
 you are no match for me
+you are scum
 you are stupid
 you are such a bad doctor
 you are terrible
+you are trying my patience
+you cannot burn me 1
+you cannot burn me 2
+you cannot burn me 3
 you cant be serious
 you disgust me
 you fool
@@ -905,6 +1231,8 @@ you freaking stupid
 you gotta be kidding 1
 you gotta be kidding 2
 you guys suck
+you have betrayed everyone
+you imbecile
 you live in a van
 you lose
 you moron 1
@@ -913,4 +1241,6 @@ you picked the wrong house
 you suck 1
 you suck 2
 you want to be my lover
+you were always a disappointment
+you were good son
 you will not be missed
