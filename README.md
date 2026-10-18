@@ -1,20 +1,24 @@
 # TF2 soundpacks
 
-`chat-notifications` - sounds for the [chat notifications script](https://github.com/henryweaponsguy/tf2-textchat-to-voicechat)
+`notifications` - sounds for the notifications script
 
-`poll` - sounds for the [poll script](https://github.com/henryweaponsguy/tf2-textchat-to-voicechat)
+`poll` - sounds for the poll script
 
-`sentencemixing-hgrunt` - HECU Marine (Half-Life) voice for the [sentence mixing script](https://github.com/henryweaponsguy/tf2-textchat-to-voicechat)
+`radio` - sounds for the radio script
 
-`sentencemixing-vox` - Black Mesa Announcement System (Half-Life) voice for the [sentence mixing script](https://github.com/henryweaponsguy/tf2-textchat-to-voicechat)
+`sentencemixing-hgrunt` - HECU Marine (Half-Life) voice for the sentence mixing script
 
-`soundboard` - sounds for the [soundboard script](https://github.com/henryweaponsguy/tf2-textchat-to-voicechat)
+`sentencemixing-vox` - Black Mesa Announcement System (Half-Life) voice for the sentence mixing script
 
-`timer` - sounds for the [timer script](https://github.com/henryweaponsguy/tf2-textchat-to-voicechat)
+`soundboard` - sounds for the soundboard script
+
+`timer` - sounds for the timer script
 
 ---
 
-#### Get the compressed soundpacks [here](https://github.com/henryweaponsguy/tf2-soundpacks/releases)
+#### Get the scripts [here](https://github.com/henryweaponsguy/tf2-textchat-to-voicechat)
+
+#### Get the soundpacks [here](https://github.com/henryweaponsguy/tf2-soundpacks/releases)
 
 ---
 
