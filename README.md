@@ -6,7 +6,7 @@
 
 `radio` - sounds for the radio script
 
-`sentencemixing-hgrunt` - HECU Marine (Half-Life) voice for the sentence mixing script
+`sentencemixing-hecu` - HECU Marine (Half-Life) voice for the sentence mixing script
 
 `sentencemixing-vox` - Black Mesa Announcement System (Half-Life) voice for the sentence mixing script
 
